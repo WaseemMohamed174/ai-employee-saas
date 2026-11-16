@@ -1,0 +1,34 @@
+# Demo store data — one line = one item uploaded to the AI Employee (POST /api/v1/data).
+# Format: plain line → auto id (line-N) · "ID|text" → an id of your choice · leading # = comment.
+# Edit/add/remove freely, then press "Upload the catalog to the AI Employee" from the page — no restart needed.
+
+SKU-001|Product: Men's 100% cotton T-shirt — Price 250 EGP — Sizes: M, L and XL — Colors: black, white and navy — Product code SKU-001
+SKU-002|Product: Winter zip-up hoodie — Price 450 EGP — Sizes: from M to XXL — Colors: grey and black — Product code SKU-002
+SKU-003|Product: Skinny-fit stretch denim jeans — Price 380 EGP — Sizes: from 30 to 38 — Product code SKU-003
+SKU-004|Product: Running sneakers with a comfortable non-slip sole — Price 600 EGP — Sizes: from 40 to 45 — Product code SKU-004
+SKU-005|Product: School backpack with a padded 15-inch laptop pocket — Price 320 EGP — Product code SKU-005
+POLICY-SHIP-FEES|Shipping policy: delivery inside Cairo and Giza for 30 EGP, other governorates for 50 EGP
+POLICY-SHIP-TIME|Delivery time: 2 to 3 business days inside Cairo and Giza, and 3 to 5 business days for other governorates
+POLICY-SHIP-COVERAGE|Shipping is available to all twenty-seven governorates of Egypt through certified courier companies
+FAQ-SHIP-ALEX|FAQ: Do you deliver to Alexandria? — Yes, delivery to Alexandria costs 50 EGP and takes 3 to 5 business days
+POLICY-TRACKING|Order tracking: after you confirm your order you get an order number, and you can ask the AI Employee about your shipment status at any time
+POLICY-PAY-METHODS|Payment methods: cash on delivery, or Visa and Mastercard online, or a Vodafone Cash wallet
+POLICY-PAY-COD|Cash on delivery is available in every Egyptian governorate with no extra fees
+POLICY-PAY-CARD|Visa and Mastercard payments are secure and protected, and the invoice reaches you after you confirm the order
+PROMO-WELCOME10|FAQ: Are there discounts? — There is a 10% welcome discount on your first order with the code WELCOME10, and new offers are posted on our pages
+POLICY-RETURN|Return policy: returns are accepted within 14 days of delivery as long as the product is in its original condition with the full packaging
+POLICY-EXCHANGE|Exchange policy: exchanging the size or color is available once for free within 14 days of delivery
+POLICY-DEFECT|Defective item on arrival: contact us within 48 hours of delivery and we will replace it immediately for free or refund you in full
+FAQ-RETURN-HOW|FAQ: How do I return a product? — Send the AI Employee a message with your order number and it will walk you through the return steps step by step
+FAQ-PRICE-TEE|FAQ: How much is the cotton T-shirt? — The men's cotton T-shirt costs 250 EGP and comes in sizes M, L and XL in three colors
+FAQ-PRICE-HOODIE|FAQ: How much is the hoodie? — The winter zip-up hoodie costs 450 EGP and comes in grey and black from size M to XXL
+FAQ-SIZES-BIG|FAQ: Do you have large sizes? — We go up to size XXL in the T-shirt and hoodie and size 45 in the sneakers
+FAQ-JEANS-FIT|FAQ: Does the jeans fit true to size? — The skinny jeans fit true to size, and if you are between two sizes pick the larger one
+FAQ-PRICE-SNEAKERS|FAQ: How much are the sneakers? — The running sneakers cost 600 EGP and come in sizes from 40 to 45
+INFO-SIZE-GUIDE|Size guide: the size chart is on every product page, and if you are unsure send us your shoulder width and height in centimeters and we will help you pick the right size
+FAQ-AUTHENTIC|FAQ: Are the products authentic? — Every product is new and 100% authentic, with an invoice and a warranty against manufacturing defects
+FAQ-STOCK|FAQ: The product is out of stock? — If a product is currently unavailable, ask the AI Employee to save your number and we will notify you as soon as it is back
+INFO-ABOUT|About the store: an Egyptian online store specializing in men's clothing and shoes with high quality and competitive prices
+FAQ-HOURS|FAQ: When do you operate? — The AI Employee is with you 24 hours a day all week, and the human support team works from 10 AM to 10 PM
+INFO-CONTACT|Contact: through the website chat directly, or via the store's WhatsApp, and the reply arrives within minutes during working hours
+FAQ-INTL-SHIP|FAQ: Do you ship internationally? — Currently we ship inside Egypt only; international shipping is coming soon
